@@ -1,0 +1,10 @@
+C:\Users\rober\Downloads\pictures\fb\Compressed\AngularASPNETCoreAuthentication-master\AngularASPNETCoreAuthentication-master\src\dotnetGigs\bin\Debug\netcoreapp1.1\dotnetGigs.deps.json
+C:\Users\rober\Downloads\pictures\fb\Compressed\AngularASPNETCoreAuthentication-master\AngularASPNETCoreAuthentication-master\src\dotnetGigs\bin\Debug\netcoreapp1.1\dotnetGigs.runtimeconfig.json
+C:\Users\rober\Downloads\pictures\fb\Compressed\AngularASPNETCoreAuthentication-master\AngularASPNETCoreAuthentication-master\src\dotnetGigs\bin\Debug\netcoreapp1.1\dotnetGigs.runtimeconfig.dev.json
+C:\Users\rober\Downloads\pictures\fb\Compressed\AngularASPNETCoreAuthentication-master\AngularASPNETCoreAuthentication-master\src\dotnetGigs\bin\Debug\netcoreapp1.1\dotnetGigs.dll
+C:\Users\rober\Downloads\pictures\fb\Compressed\AngularASPNETCoreAuthentication-master\AngularASPNETCoreAuthentication-master\src\dotnetGigs\bin\Debug\netcoreapp1.1\dotnetGigs.pdb
+C:\Users\rober\Downloads\pictures\fb\Compressed\AngularASPNETCoreAuthentication-master\AngularASPNETCoreAuthentication-master\src\dotnetGigs\obj\Debug\netcoreapp1.1\dotnetGigs.csproj.CoreCompileInputs.cache
+C:\Users\rober\Downloads\pictures\fb\Compressed\AngularASPNETCoreAuthentication-master\AngularASPNETCoreAuthentication-master\src\dotnetGigs\obj\Debug\netcoreapp1.1\dotnetGigs.AssemblyInfoInputs.cache
+C:\Users\rober\Downloads\pictures\fb\Compressed\AngularASPNETCoreAuthentication-master\AngularASPNETCoreAuthentication-master\src\dotnetGigs\obj\Debug\netcoreapp1.1\dotnetGigs.AssemblyInfo.cs
+C:\Users\rober\Downloads\pictures\fb\Compressed\AngularASPNETCoreAuthentication-master\AngularASPNETCoreAuthentication-master\src\dotnetGigs\obj\Debug\netcoreapp1.1\dotnetGigs.dll
+C:\Users\rober\Downloads\pictures\fb\Compressed\AngularASPNETCoreAuthentication-master\AngularASPNETCoreAuthentication-master\src\dotnetGigs\obj\Debug\netcoreapp1.1\dotnetGigs.pdb
